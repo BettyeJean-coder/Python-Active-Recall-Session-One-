@@ -15,4 +15,4 @@ name_str =str(name)
 
 current_age = input("What is your age?: ")
 current_age = int(current_age)
-print("Your age is: ", current_age, "and your name is:", name)
+print("Your age is:", current_age, "and your name is:", name)
