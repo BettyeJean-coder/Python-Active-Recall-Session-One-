@@ -4,9 +4,8 @@ Python Active Recall One: This is just one of my python active recall sessions t
 The first week focuses on the basics and active recall. 
 
 # Reasons for active recall 
-When working in programing, it it iportmant that we always imporve our most 
-basic skils. Mastering the basics will always be than learning more complexe 
-frame works. This is because if you do not know the baiscs you have no foundaion 
+When working in programming, it is important that we always improve our most 
+basic skills. Mastering the basics will always be better than learning more complex frameworks. This is because if you do not know the basics, you have no foundation 
 for the complex. 
- 
+
 
