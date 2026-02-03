@@ -9,7 +9,7 @@
 
 name = input("What's your name?: ")
 name_str =str(name) 
-
+   
 
 current_age = input("What is your age?: ")
 current_age = int(current_age)
