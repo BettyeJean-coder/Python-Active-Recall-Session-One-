@@ -8,4 +8,5 @@ When working in programming, it is important that we always improve our most
 basic skills. Mastering the basics will always be better than learning more complex frameworks. This is because if you do not know the basics, you have no foundation 
 for the complex. 
 
-
+# Working On Classes 
+My class for 2026, using python as on off it's main programing languages updates on this work will be coming soon. 
