@@ -6,4 +6,3 @@ catage=int(catage)
 
 print("Your cat's name is", catname, "and they are", catage)
 
-#ACTIVE RECALL TOOK LESS THAN FIVE MINUTES 
